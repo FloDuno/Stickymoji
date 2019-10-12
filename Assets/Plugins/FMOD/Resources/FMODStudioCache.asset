@@ -1,0 +1,3190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 114825865509145034}
+  - {fileID: 114248052628193330}
+  - {fileID: 114607689744052258}
+  - {fileID: 114428348541720342}
+  - {fileID: 114357239592215436}
+  EditorEvents:
+  - {fileID: 114396261922118042}
+  - {fileID: 114595288998532588}
+  - {fileID: 114142204415613664}
+  - {fileID: 114335701043012674}
+  - {fileID: 114105598012912314}
+  - {fileID: 114430428573768410}
+  - {fileID: 114117504419517338}
+  - {fileID: 114852243202623462}
+  - {fileID: 114587534217121638}
+  - {fileID: 114678704773920650}
+  - {fileID: 114541407654754556}
+  - {fileID: 114861299918591562}
+  - {fileID: 114116083456614138}
+  - {fileID: 114878219006270080}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 114607689744052258}
+  StringsBanks:
+  - {fileID: 114825865509145034}
+  stringsBankWriteTime: 637060126672722451
+  cacheVersion: 3
+--- !u!114 &114004168052104092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637058922161893964
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 0
+--- !u!114 &114010176031050466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060124819767664
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 1
+--- !u!114 &114010776008228836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060404122296025
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 0
+--- !u!114 &114027771763244278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059214466328320
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 0
+--- !u!114 &114032222095828810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060124819326238
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114033112124352582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114039372376881068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060124819767664
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 1
+--- !u!114 &114056318190805776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060109203352004
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114061319778497100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060109197945547
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114072637835030960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114073585393793976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060124819351041
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 1
+--- !u!114 &114075300824006968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060109203352004
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114090361100702968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060076948010516
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114090529489018666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059964977046042
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114093118791026230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059632909199600
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205888
+  Exists: 1
+--- !u!114 &114095462163240600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114104799363080790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060124819286551
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 0
+--- !u!114 &114105598012912314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/magnet
+  m_EditorClassIdentifier: 
+  Path: event:/magnet
+  guid: 577e2337506a6146b97cc35b923ec1b0
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1285
+--- !u!114 &114107924145869474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059964977046042
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114116083456614138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Degroup
+  m_EditorClassIdentifier: 
+  Path: event:/Degroup
+  guid: 25dd4c837ff6394094223f810fcdbbcd
+  Banks:
+  - {fileID: 114357239592215436}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 737
+--- !u!114 &114117504419517338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/bombexplosion
+  m_EditorClassIdentifier: 
+  Path: event:/bombexplosion
+  guid: 85b698fb003c394ab578f0d6d109bead
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1304
+--- !u!114 &114123761534611984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060404122296025
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 0
+--- !u!114 &114130865078854520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059960104432034
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1240
+  Exists: 0
+--- !u!114 &114138550377780744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114142204415613664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mouse
+  m_EditorClassIdentifier: 
+  Path: event:/mouse
+  guid: 419149799505eb499cad87d65b7cd468
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 248
+--- !u!114 &114148940645936286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060124819554725
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114156607632876766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114164864691287380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059579728502594
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 1
+--- !u!114 &114165077374953164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114170426928932286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060076948050469
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114173264254750996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060124819351041
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 0
+--- !u!114 &114181545917037204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060109203352004
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114190422397410078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059625462761103
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205888
+  Exists: 1
+--- !u!114 &114199783825969624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060109197626373
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114199843511125728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060076948074989
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1376
+  Exists: 1
+--- !u!114 &114207718908054020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114211307167279906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114216296158619330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114221896621300800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114228005200470938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114229520891647258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059579728502594
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 1
+--- !u!114 &114237668021558480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060404113323296
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114248052628193330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060125288443384
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114250437624574554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637058922166534229
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205120
+  Exists: 0
+--- !u!114 &114260164374190140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059949682343417
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1240
+  Exists: 1
+--- !u!114 &114264927041362114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114272009512176402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059949682278955
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205760
+  Exists: 1
+--- !u!114 &114272762841888678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060125288443384
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 0
+--- !u!114 &114274811834882032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059960112328905
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205760
+  Exists: 0
+--- !u!114 &114289325294086844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059964977046042
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114291331968536970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060109200629279
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 47488
+  Exists: 1
+--- !u!114 &114304893973867370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059579728502594
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 1
+--- !u!114 &114307843828034206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114313242630886780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060124819351041
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 1
+--- !u!114 &114317038226481444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637058922161883963
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114323230506396534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060126672722451
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 0
+--- !u!114 &114332295675858710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060125288443384
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 0
+--- !u!114 &114335701043012674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/bell
+  m_EditorClassIdentifier: 
+  Path: event:/bell
+  guid: 4cc2afbbbe1a3741a80f6bc4cf510ce3
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1000
+--- !u!114 &114338803571460884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114339682241206452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059949682323577
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114345385788259980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059579728502594
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 1
+--- !u!114 &114348100811182402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114357239592215436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060126693322382
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 1
+--- !u!114 &114368606984482660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060404110301236
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 1
+--- !u!114 &114368661821215506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114377180034293312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114380433685914714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114385380618506648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060124819286551
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114387508611428522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059625462761103
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205888
+  Exists: 1
+--- !u!114 &114388707629592602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060109203352004
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114396261922118042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/ruler
+  m_EditorClassIdentifier: 
+  Path: event:/ruler
+  guid: 0d001881c8bc034e89053e2692118241
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 258
+--- !u!114 &114397037588655504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060076948273386
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114399362945450416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060404122296025
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 1
+--- !u!114 &114408358568139662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060404110301236
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 0
+--- !u!114 &114412022688986310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060124819554725
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114418638416557854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114426883941720694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114428348541720342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059964977046042
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114430428573768410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/star
+  m_EditorClassIdentifier: 
+  Path: event:/star
+  guid: 734e05e83f287d4eac07bf5305d641dc
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2537
+--- !u!114 &114447062142187774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060076948471786
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 47488
+  Exists: 1
+--- !u!114 &114461218071475440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114462206332071296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059949686713707
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114464513353446210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060404113323296
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 0
+--- !u!114 &114484718055397874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060124819554725
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114489558844826300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060125288443384
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114494907450254106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060126672722451
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 0
+--- !u!114 &114498586147567064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059214466303506
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114511067643989918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059625462761103
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205888
+  Exists: 1
+--- !u!114 &114529183811851562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060087494832421
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1376
+  Exists: 1
+--- !u!114 &114541407654754556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mainMusic
+  m_EditorClassIdentifier: 
+  Path: event:/mainMusic
+  guid: 7d6da62aba6c104aadaaaf8d9eaf2d35
+  Banks:
+  - {fileID: 114428348541720342}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 31142
+--- !u!114 &114544945850561996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059214466328320
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 1
+--- !u!114 &114548042835183658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114555497087406118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060124819767664
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 0
+--- !u!114 &114556277638448866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060124819286551
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114562517502813926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060404113323296
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 0
+--- !u!114 &114567736647903126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060126672722451
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 1
+--- !u!114 &114581231069071470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059960139634136
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114583533013299750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060404110301236
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 0
+--- !u!114 &114584176004092290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060076948010516
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114587508127829890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060076948471786
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 47488
+  Exists: 1
+--- !u!114 &114587534217121638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/balloon
+  m_EditorClassIdentifier: 
+  Path: event:/balloon
+  guid: bbd81f72d471d043b059e14484d24a98
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 873
+--- !u!114 &114590501830872280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060404113323296
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 0
+--- !u!114 &114595288998532588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/frog
+  m_EditorClassIdentifier: 
+  Path: event:/frog
+  guid: 1d2b3a18fc840746ad909b98650efe79
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 630
+--- !u!114 &114607689744052258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114642045810937406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060109197626373
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114668929847461902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060126693322382
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 0
+--- !u!114 &114677128895987156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060126693322382
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 1
+--- !u!114 &114677384749729234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060109197626373
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114678704773920650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/anchor
+  m_EditorClassIdentifier: 
+  Path: event:/anchor
+  guid: f7d3d9c1708145488ba924e9b43bb73e
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1504
+--- !u!114 &114678972673730278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059564131973695
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 1
+--- !u!114 &114688048306618712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060124819326238
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114690195709347948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060109198454156
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1376
+  Exists: 1
+--- !u!114 &114698961882543458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060124819286551
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114703805559619372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059564124025609
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114713649791551808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060126693322382
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 0
+--- !u!114 &114714109544283142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060076948050469
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114718830122095094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060109197626373
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114720237274523196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114734535803872154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114735295176223226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060076948074989
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1376
+  Exists: 1
+--- !u!114 &114741693091331362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114750283791793082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060124819767664
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 1
+--- !u!114 &114756547588418798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060404110301236
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 0
+--- !u!114 &114758155306272660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114768913178335100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060404122296025
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 0
+--- !u!114 &114774107750505906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059214466303506
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114780751583833036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060124819326238
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114782937176917110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059214466263833
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205888
+  Exists: 0
+--- !u!114 &114783080767154564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059564124025609
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114784910914416886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114802842545503020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059632909199600
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205888
+  Exists: 0
+--- !u!114 &114806118808445452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059964977046042
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114816656694010602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059564124025609
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114825865509145034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060126672722451
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 1
+--- !u!114 &114835758961721796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060124819554725
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114838214542923164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637059960139634136
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114845412116632040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114846972785399296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060087501694447
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 47488
+  Exists: 1
+--- !u!114 &114848780665538182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060109203352004
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 0
+--- !u!114 &114852243202623462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cat
+  m_EditorClassIdentifier: 
+  Path: event:/cat
+  guid: a1ac969607eb3841845bc4a60d2ea41d
+  Banks:
+  - {fileID: 114248052628193330}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2400
+--- !u!114 &114861299918591562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/snap
+  m_EditorClassIdentifier: 
+  Path: event:/snap
+  guid: 7f77c75b08129c47b8a42230ec4552d4
+  Banks:
+  - {fileID: 114357239592215436}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 114348100811182402}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 500
+--- !u!114 &114871362060572066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060126672722451
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 0
+--- !u!114 &114878219006270080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Jump
+  m_EditorClassIdentifier: 
+  Path: event:/Jump
+  guid: 7a00607b30a41443ab14756f1d326d37
+  Banks:
+  - {fileID: 114357239592215436}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 166
+--- !u!114 &114883916459928370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 0
+--- !u!114 &114907933021119048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114916405287296956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637059564131973695
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1144
+  Exists: 0
+--- !u!114 &114927583924312718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Player.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Player.bank
+  SubDir: 
+  lastModified: 637060126693322382
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 0
+--- !u!114 &114934385802997456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114942153178237764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059214466263833
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205888
+  Exists: 1
+--- !u!114 &114943853385606928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059564124025609
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 0
+--- !u!114 &114943921380812634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Music.bank
+  SubDir: 
+  lastModified: 637060076948273386
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 202592
+  Exists: 1
+--- !u!114 &114951208564185282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637059579728692476
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 205120
+  Exists: 1
+--- !u!114 &114954233299047932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45 (1)/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060109197626373
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114955670023679264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637060124819326238
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1
+--- !u!114 &114958020255929556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/snap/PitchShift
+  m_EditorClassIdentifier: 
+  Name: PitchShift
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114958776727916342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060125288443384
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 0
+--- !u!114 &114969695725950436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/Documents/Code/MyGames/LudumDare45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637060124819351041
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1448
+  Exists: 1
+--- !u!114 &114983812855490354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Emojis.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Agathe Perso/LudumDare45/Assets/Audio/emojis/Build/Desktop/Emojis.bank
+  SubDir: 
+  lastModified: 637060087515754509
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 233760
+  Exists: 1
+--- !u!114 &114997762938632440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/AewniNi/Desktop/Ludum45/LudumDare45/Assets/Audio/emojis/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637059579732890158
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1000
+  Exists: 1

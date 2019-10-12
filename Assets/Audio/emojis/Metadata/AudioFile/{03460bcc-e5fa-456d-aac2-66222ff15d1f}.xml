@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{03460bcc-e5fa-456d-aac2-66222ff15d1f}">
+		<property name="assetPath">
+			<value>bombexplosion.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3043229166666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ac6e12e4-fb4f-41f3-9673-11c140458b24}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab74f7a71b514e14f8cd04d855e45698
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: <root>
+    11400002: Player/Move
+    11400006: Player/Degroup
+    11400008: Player/Reset
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e2fdc6edf8744b38b702a2a5ee3541b2, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/Scripts/Controls.cs
+  wrapperClassName: Controls
+  wrapperCodeNamespace: 
+  generateActionEvents: 0
+  generateInterfaces: 0
+  actionGuids: []
+  actionMapGuids: []
