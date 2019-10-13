@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 # Fmod file
 fmod_editor.log
+
+# Rider files
+.idea/
