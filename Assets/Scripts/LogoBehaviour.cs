@@ -1,8 +1,10 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Experimental.Input;
 using UnityEngine.SceneManagement;
 
+/// <summary>
+/// Main script for the menu
+/// </summary>
 public class LogoBehaviour : MonoBehaviour
 {
     [SerializeField] private InputActionAsset asset;
@@ -10,7 +12,7 @@ public class LogoBehaviour : MonoBehaviour
     
     private InputAction action;
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
         EnableInputs();
     }

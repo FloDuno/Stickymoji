@@ -2,6 +2,9 @@
 using System.Diagnostics.CodeAnalysis;
 using UnityEngine;
 
+/// <summary>
+/// Base script for all emojis except the player 
+/// </summary>
 public class EmojiBehaviour : MonoBehaviour, IUsable
 {
     [SuppressMessage("ReSharper", "UnassignedField.Global")]
@@ -16,9 +19,13 @@ public class EmojiBehaviour : MonoBehaviour, IUsable
     }
 
     [SerializeField] private float dropPower, launchPower, timeIntangibleAfterRope;
+    
+    /// <summary>
+    /// Stored parameters for the rigidbody to make the delete and add component invisible
+    /// Todo : Need to investigate if making it Kinematic instead when needed is simpler /// </summary>
     private Rigidbody2DParameters rigidbody2DParameters;
 
-    protected new Rigidbody2D MyRigidbody2D;
+    protected Rigidbody2D MyRigidbody2D;
     protected PlayerBehaviour PlayerBehaviour;
 
     // Start is called before the first frame update
@@ -46,10 +53,15 @@ public class EmojiBehaviour : MonoBehaviour, IUsable
         PlayerBehaviour = GameObject.FindWithTag("Player").GetComponent<PlayerBehaviour>();
     }
 
+    /// <summary>
+    /// When the player drop an emoji
+    /// </summary>
     public virtual void Degroup()
     {
         var playerPos = transform.parent.position;
         transform.SetParent(null);
+        
+        // Todo : Clean to make sure the effect is done even when there's already a Rigidbody (but it shouldn't happen)
         if (MyRigidbody2D != null) return;
 
         MyRigidbody2D = gameObject.AddComponent<Rigidbody2D>();
@@ -59,11 +71,16 @@ public class EmojiBehaviour : MonoBehaviour, IUsable
         MyRigidbody2D.gravityScale = rigidbody2DParameters.gravityScale;
         // ReSharper disable once Unity.InefficientPropertyAccess
         MyRigidbody2D.AddForce((transform.position - playerPos).normalized * dropPower);
+        // Todo : Add every layer index or name to a static file to avoid typos
         gameObject.layer = LayerMask.NameToLayer("Ungrabable");
 
+        // ReSharper disable once Unity.PreferAddressByIdToGraphicsParams
         GetComponent<Animator>().SetTrigger("Blink");
     }
-
+    
+    /// <summary>
+    /// Pre explosion effect
+    /// </summary>
     public virtual void Bounce()
     {
         var parent = transform.parent;
@@ -73,7 +90,7 @@ public class EmojiBehaviour : MonoBehaviour, IUsable
         Explode(forceDirection.normalized);
     }
 
-    public virtual void Explode(Vector2 direction)
+    protected virtual void Explode(Vector2 direction)
     {
         transform.parent.GetComponent<Rigidbody2D>().AddForce(direction * launchPower);
         if (GetComponent<HingeJoint2D>())
@@ -82,6 +99,10 @@ public class EmojiBehaviour : MonoBehaviour, IUsable
         }
     }
 
+    /// <summary>
+    /// Todo : Need to be entirely redone to avoid double check layers
+    /// </summary>
+    /// <param name="other"></param>
     public virtual void OnCollisionEnter2D(Collision2D other)
     {
         if (MyRigidbody2D != null && other.gameObject.layer == LayerMask.NameToLayer("Floor"))

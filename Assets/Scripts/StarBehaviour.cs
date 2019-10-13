@@ -37,7 +37,7 @@ public class StarBehaviour : EmojiBehaviour
 
     }
 
-    public override void Explode(Vector2 direction)
+    protected override void Explode(Vector2 direction)
     {
         if (isOnWall)
         {

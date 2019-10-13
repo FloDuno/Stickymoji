@@ -1,8 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class BombBehaviour : EmojiBehaviour
+/// <summary>
+/// The bomb must give the player a big boost when dropped 
+/// </summary>
+public sealed class BombBehaviour : EmojiBehaviour
 {
     [SerializeField] private float power;
 
@@ -11,7 +12,7 @@ public class BombBehaviour : EmojiBehaviour
         Explode();
     }
 
-    public virtual void Explode()
+    private void Explode()
     {
         var parent = transform.parent;
         // ReSharper disable once Unity.InefficientPropertyAccess

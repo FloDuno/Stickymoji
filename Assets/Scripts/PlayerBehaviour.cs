@@ -1,6 +1,6 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using FMOD.Studio;
+using FMODUnity;
 using UnityEngine;
 using UnityEngine.Experimental.Input;
 using UnityEngine.SceneManagement;
@@ -15,15 +15,15 @@ public class PlayerBehaviour : MonoBehaviour
     [Header("Sound")] [Space] [SerializeField, Range(1, 100)]
     private int maxPitchShiftStep;
 
-    [SerializeField] [FMODUnity.EventRef] private string snapSound, jumpSound, degroupSound;
+    [SerializeField] [EventRef] private string snapSound, jumpSound, degroupSound;
 
-
-    private FMOD.Studio.EventInstance snapEvent;
-
-    private FMOD.Studio.PARAMETER_ID snapPitchShiftID;
+    // Fmod need this
+    private EventInstance snapEvent;
+    private PARAMETER_ID snapPitchShiftID;
 
     // Store actual input
     private InputAction action;
+    
     private new Rigidbody2D rigidbody2D;
     private Bounds playerBounds;
     private Vector2 direction;
@@ -36,12 +36,15 @@ public class PlayerBehaviour : MonoBehaviour
         rigidbody2D = GetComponent<Rigidbody2D>();
         playerBounds = GetComponent<Collider2D>().bounds;
         EnableInputs();
-        snapEvent = FMODUnity.RuntimeManager.CreateInstance(snapSound);
+        snapEvent = RuntimeManager.CreateInstance(snapSound);
         snapEvent.getDescription(out var snapEventDescription);
         snapEventDescription.getParameterDescriptionByName("PitchShift", out var snapParameterDescription);
         snapPitchShiftID = snapParameterDescription.id;
     }
 
+    /// <summary>
+    /// Todo : Redo to activate the whole action map instead of action one by one
+    /// </summary>
     private void EnableInputs()
     {
         var actionMap = asset.GetActionMap("Player");
@@ -68,7 +71,7 @@ public class PlayerBehaviour : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other)
     {
         // Add object to the player
-        if (other.gameObject.CompareTag($"Emoji"))
+        if (other.gameObject.CompareTag("Emoji"))
         {
             var colliderToAdd = (PolygonCollider2D) other.collider;
             colliderToAdd.transform.SetParent(transform, true);
@@ -89,11 +92,16 @@ public class PlayerBehaviour : MonoBehaviour
         canDegroup = true;
     }
 
+    // Better store the input and process it in FixedUpdate than check for input in every FixedUpdate
     private void OnMove(InputAction.CallbackContext context)
     {
         direction = new Vector2(context.ReadValue<float>(), 0);
     }
 
+    /// <summary>
+    /// Degroup is done after a jump
+    /// </summary>
+    /// <param name="context"></param>
     private void OnDegroup(InputAction.CallbackContext context)
     {
         if (!canDegroup)
@@ -108,11 +116,11 @@ public class PlayerBehaviour : MonoBehaviour
             usable.Bounce();
         }
     }
-
+    
     private IEnumerator DegroupDelay(IUsable[] usables)
     {
         canDegroup = false;
-        FMODUnity.RuntimeManager.PlayOneShot(jumpSound, transform.position);
+        RuntimeManager.PlayOneShot(jumpSound, transform.position);
         yield return new WaitForSeconds(delayBeforeDegroup);
         foreach (var usable in usables)
         {
@@ -120,7 +128,7 @@ public class PlayerBehaviour : MonoBehaviour
         }
 
         if (usables.Length > 0)
-            FMODUnity.RuntimeManager.PlayOneShot(degroupSound, transform.position);
+            RuntimeManager.PlayOneShot(degroupSound, transform.position);
     }
 
     public static void Die()
@@ -139,6 +147,11 @@ public class PlayerBehaviour : MonoBehaviour
         StartCoroutine(Intangibility(time));
     }
 
+    /// <summary>
+    /// Make the player not colliding with emojis thanks to layers
+    /// </summary>
+    /// <param name="time"></param>
+    /// <returns></returns>
     private IEnumerator Intangibility(float time)
     {
         gameObject.layer = LayerMask.NameToLayer("Ungrabable");
@@ -149,5 +162,6 @@ public class PlayerBehaviour : MonoBehaviour
     private void OnDestroy()
     {
         snapEvent.release();
+        // Todo : Unsubscribe input events
     }
 }
